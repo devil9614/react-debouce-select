@@ -1,6 +1,6 @@
 {
   "name": "debounce_select",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library for search in debounce and select",
   "main": "src/index.js",
   "scripts": {
