@@ -73,5 +73,4 @@ Contributions are welcome! Please read the contributing guide to learn how you c
 
 ## License
 
-DebounceSelect is released under the MIT License.
-# react-debouce-select
+DebounceSelect is released under the [MIT License](https://opensource.org/license/mit/).
